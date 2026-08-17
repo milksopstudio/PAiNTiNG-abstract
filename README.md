@@ -1,2 +1,2 @@
-# PAiNTiNGS-abstract
-Abstract Paintings Gallery
+# PAiNTiNG-abstract
+Abstract Painting Gallery
