@@ -1,2 +1,2 @@
 # PAiNTiNG-abstract
-Abstract Painting Gallery
+Milksop Studio Abstract Painting Gallery
